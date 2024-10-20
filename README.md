@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ShriyaRatna1&theme=highcontrast)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ShriyaRatna&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
 <!--
 **ShriyaRatna/ShriyaRatna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
